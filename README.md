@@ -1,3 +1,3 @@
-# Carbon Playground
+# Carbon Language Playground
 
 `$ bazel run //explorer -- ./helloworld.carbon`
