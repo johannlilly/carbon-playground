@@ -1,3 +1,3 @@
 # Carbon Playground
 
-`bazel run //explorer -- ./helloworld.carbon`
+`$ bazel run //explorer -- ./helloworld.carbon`
